@@ -92,7 +92,7 @@
 			</form>
 		</div>
 	</div>
-
+	<!-- bector panget -->
 	<script type="module" src="./Module Index/Client Side/Controller_Btn_SignIn.js"></script>
 	<script type="module" src="./Module Index/Client Side/Controller_Btn_SignUp.js"></script>
 	<script type="module" src="./Module Index/Client Side/Controller_Btn_Login.js"></script>
